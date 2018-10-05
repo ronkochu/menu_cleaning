@@ -1,0 +1,10 @@
+
+Dependencies:
+
+numpy
+pandas
+gensim
+menu2vec
+tensorflow
+menu2vec install from - /home/ron/virtenv/lib/python3.6/site-packages/menu2vec/ on .10
+
